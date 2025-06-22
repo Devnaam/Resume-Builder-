@@ -75,12 +75,19 @@ Resume Builder is built with a modern and robust set of technologies:
 
 ## 📸 Screenshots or GIFs
 
+<h2 align="center">📄 Resume Builder Home Page Previews</h2>
 
-![Resume Builder Home](./images/img5.png)
-![Resume Builder Home](./images/img2.png)
-![Resume Builder Home](./images/img3.png)
-![Resume Builder Home](./images/img4.png)
-![Resume Builder Home](./images/image.png)
+<p align="center">
+  <img src="./images/img5.png" alt="Resume Builder Home" width="45%" style="margin-right: 10px;"/>
+  <img src="./images/img2.png" alt="Resume Builder Home" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="./images/img3.png" alt="Resume Builder Home" width="30%" style="margin-right: 10px;"/>
+  <img src="./images/img4.png" alt="Resume Builder Home" width="30%" style="margin-right: 10px;"/>
+  <img src="./images/image.png" alt="Resume Builder Home" width="30%"/>
+</p>
+
 
 
 
