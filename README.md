@@ -75,7 +75,14 @@ Resume Builder is built with a modern and robust set of technologies:
 
 ## 📸 Screenshots or GIFs
 
-*(Please add screenshots or GIFs here to showcase your application's UI and functionality. You can replace this text with image links or embed GIFs directly.)*
+
+![Resume Builder Home](./images/img5.png)
+![Resume Builder Home](./images/img2.png)
+![Resume Builder Home](./images/img3.png)
+![Resume Builder Home](./images/img4.png)
+![Resume Builder Home](./images/image.png)
+
+
 
 ---
 
